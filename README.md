@@ -14,6 +14,9 @@
 ---
 
 ## 🛠 Tech Stack
+![Black and Orange Simple Coming Soon Poster Landscape](https://github.com/user-attachments/assets/558e8e89-e4de-4ab6-9dde-a43fae27e41f)
+
+
 
 ### 👨‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
