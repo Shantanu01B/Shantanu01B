@@ -1,91 +1,71 @@
-# 💻 Shantanu Barge 
-### **MERN Stack Developer | AI Engineer | Full-Stack Developer**
+# 💫 Hello, I'm Shantanu Barge! 
+### *MERN Stack Developer | AI Enthusiast | Creative Coder*
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=500&lines=Building+scalable+web+solutions;AI+%7C+ML+Enthusiast;3D+Visualization+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=Building+intelligent+web+solutions;Turning+ideas+into+interactive+experiences;3D+Visualization+Enthusiast" alt="Typing SVG" />
+</div>
+
+## 🚀 What I Do
+- 🔭 Working on **AI-integrated full-stack projects** (OpenAI, Gemini APIs)
+- 🌱 Learning **advanced backend optimization** and **AI/ML integration**
+- 🛠 Building with **React, Node.js, MongoDB, Three.js**
+- ⚡ Fun fact: Created a **3D Solar System with adjustable planet speeds!**
+
+---
+
+## 🛠 Tech Stack
+![Black and Orange Simple Coming Soon Poster Landscape](https://github.com/user-attachments/assets/558e8e89-e4de-4ab6-9dde-a43fae27e41f)
+
+
+
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🖥 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+### ⚙ Backend
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shantanu01B&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanu01B&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu01B&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-## 🛠️ Technical Expertise
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### **AI/ML Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
+## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shantanu-Barge)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shantanu_barge)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantanubarge2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shantanu01B)
 
 <div align="center">
-  
-| ![Shantanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shantanu01B&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu01B&layout=compact&theme=radical&hide_border=true&langs_count=8) |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shantanu01B&theme=radical&hide_border=true) | ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shantanu01B&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Graph) |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shantanu01B&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### **AI-Powered Applications**
-- 🤖 [AI Content Generator](https://github.com/Shantanu01B/ai-content-generator) - OpenAI & Gemini API integration
-- 🎨 [AI Image Generation Tool](https://github.com/Shantanu01B/ai-image-generator) - Stable Diffusion implementation
-
-### **3D Web Experiences**
-- 🌌 [Interactive 3D Solar System](https://github.com/Shantanu01B/3d-solar-system) - Three.js powered visualization
-- 🏙️ [3D City Model](https://github.com/Shantanu01B/3d-city-model) - WebGL based rendering
-
-### **Full-Stack Solutions**
-- 🛒 [E-commerce Platform](https://github.com/Shantanu01B/e-commerce-platform) - MERN stack implementation
-- 📝 [Task Management System](https://github.com/Shantanu01B/task-manager) - JWT authentication & real-time updates
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shantanu-Barge)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantanubarge2005@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
-
-</div>
-
----
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=Shantanu01B&label=Profile%20Views&color=7F3FBF&style=flat)
-
+  <img src="https://komarev.com/ghpvc/?username=Shantanu01B&label=Profile%20views&color=7F3FBF&style=flat" alt="Shantanu01B" /> 
 </div>
