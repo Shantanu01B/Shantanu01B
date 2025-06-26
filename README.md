@@ -14,7 +14,7 @@
 ---
 
 ## 🛠 Tech Stack
-![Black and Orange Simple Coming Soon Poster Landscape](https://github.com/user-attachments/assets/558e8e89-e4de-4ab6-9dde-a43fae27e41f)
+
 
 
 
