@@ -14,9 +14,6 @@
 ---
 
 ## 🛠 Tech Stack
-![Black and Orange Simple Coming Soon Poster Landscape](https://github.com/user-attachments/assets/558e8e89-e4de-4ab6-9dde-a43fae27e41f)
-
-
 
 ### 👨‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -37,7 +34,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -50,12 +47,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shantanu01B&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shantanu01B&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanu01B&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu01B&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu01B&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shantanu01B&theme=radical&hide_border=true&area=true" />
 </div>
 
 ---
