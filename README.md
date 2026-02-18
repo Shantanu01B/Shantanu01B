@@ -7,9 +7,9 @@
 
 <!-- MULTI-DIMENSIONAL INTRO WITH GLOW EFFECT -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave">
+ 
   Shantanu Barge
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave">
+  
 </h1>
 
 <h3 align="center">
