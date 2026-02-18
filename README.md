@@ -1,129 +1,140 @@
-Shantanu Barge
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;MERN+Stack+Developer;AI+Integrated+Systems;Competitive+Programmer;Building+Scalable+Software" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=1f6feb&style=flat-square"/> </p>
-Engineering Overview
+🚀 Shantanu Barge
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;BE+Computer+Engineering;AI+%26+Cloud+Enthusiast" alt="Typing SVG" /> <br> <p> <a href="https://shantanu-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://linkedin.com/in/shantanu-barge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:shantanubarge2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/Shantanu01B"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.codechef.com/users/shantanu01b"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a> </p> <img src="https://komarev.com/ghpvc/?username=Shantanu01B&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views"> </div>
+📋 Executive Summary
+*BE Computer Engineering student with CGPA 9.0, passionate about building scalable full-stack applications. Experienced in MERN stack development, AI integration, and leading technical initiatives as Executive Head of Code Craft Coding Club.*
 
-Full Stack Developer with a strong foundation in computer science fundamentals and production-level web development.
+typescript
+interface IDeveloper {
+  name: "Shantanu Barge";
+  education: "BE Computer Engineering";
+  cgpa: 9.0;
+  graduation: "June 2027";
+  specialties: ["MERN Stack", "System Design", "AI Integration"];
+  leadership: "Executive Head @ Code Craft Coding Club";
+  philosophy: "Build scalable systems that solve real problems";
+}
+💼 Professional Experience
+Web Developer Intern
+Healthletic Lifestyle (Healthcare Startup) | Dec 2025 – Jan 2026
 
-Currently pursuing a Bachelor of Engineering with a CGPA of 9.0.
-Focused on building scalable, secure, and performance-oriented web systems.
+Engineered healthcare platform components using MERN stack, improving user engagement by 25%
 
-Key Strengths:
+Developed and maintained product management modules for health supplements and wellness products
 
-End-to-end MERN stack development
+Architected RESTful APIs and optimized UI responsiveness for cross-device compatibility
 
-AI-powered application integration (Gemini AI, OpenAI)
+Collaborated with cross-functional teams to deliver features within sprint deadlines
 
-Secure authentication systems (JWT, OAuth, OTP)
+🏆 Leadership & Extracurricular
+Executive Head
+Code Craft Coding Club @ PCCoER | Aug 2024 – Oct 2025
 
-Real-time systems using Socket.io
+Orchestrated a core team of 10+ members, executing technical events and initiatives
 
-Strong DSA & problem-solving foundation
+Spearheaded CraftVerse 2025, a national-level hackathon with 500+ participants
 
-Professional Experience
+Established intercollegiate collaborations and technical partnerships
 
-Web Developer Intern — Healthletic Lifestyle (Healthcare Startup)
-Remote | Dec 2025 – Jan 2026
+🚀 Featured Projects
+<details open> <summary><b>📌 Click to expand projects</b></summary>
+Project	Description	Tech Stack	Links
+RationX	Smart ration distribution system with slot booking, OTP authentication, and real-time QR verification. Features dealer dashboards for stock management and delivery tracking.	MERN Stack, JWT, QR Scan, Tailwind CSS	Live • Repo
+GigFlow	Freelance marketplace enabling clients to post gigs and freelancers to submit competitive bids with real-time updates.	MERN Stack, Socket.io, JWT, RBAC, Tailwind CSS	Live • Repo
+LawPal	AI-powered legal assistant for handling legal queries and drafting documents using advanced language models.	React, Node.js, Express, MongoDB, Gemini AI, OpenAI, Tailwind CSS	Live • Repo
+</details>
 
-Developed and maintained MERN-based healthcare web modules
+💻 Technical Proficiency
+Core Competencies
+<img width="2838" height="1543" alt="deepseek_mermaid_20260218_84a86c" src="https://github.com/user-attachments/assets/1c03fd5c-4901-408e-ad9f-b9c00ce6ba16" />
+Detailed Tech Stack
+<details> <summary><b>🔹 Frontend Development</b></summary>
+React.js - Component-based architecture, hooks, state management
 
-Built product management systems for wellness products
+Vite - Next-generation frontend tooling
 
-Designed REST APIs and optimized UI responsiveness
+Tailwind CSS - Utility-first CSS framework for responsive designs
 
-Contributed to improving overall platform performance
+Three.js - 3D graphics and visualizations
 
-Technical Expertise
-Languages
+JavaScript (ES6+) - Modern JavaScript features and patterns
 
-C++
-JavaScript
-Python
+</details><details> <summary><b>🔹 Backend Development</b></summary>
+Node.js - JavaScript runtime for scalable server-side applications
 
-Frontend Architecture
+Express.js - Web application framework for RESTful APIs
 
-React.js
-Vite
-Tailwind CSS
-HTML5 / CSS3
+MongoDB - NoSQL database with Mongoose ODM
 
-Backend Systems
+MySQL - Relational database management
 
-Node.js
-Express.js
-MongoDB
-MySQL
-RESTful APIs
-JWT & OAuth Authentication
+Socket.io - Real-time bidirectional event-based communication
 
-AI & Integrations
+</details><details> <summary><b>🔹 Authentication & Security</b></summary>
+JWT - Stateless authentication
 
-OpenAI API
-Gemini AI
+OAuth 2.0 - Third-party authentication
 
-Tools & Deployment
+Role-Based Access Control - Granular permission management
 
-Git & GitHub
-Postman
-Vercel
-Render
-MongoDB Atlas
+OTP Verification - Two-factor authentication
 
-Academic & Technical Foundation
+</details><details> <summary><b>🔹 AI & API Integration</b></summary>
+OpenAI API - GPT models integration
 
-Core Subjects:
+Gemini AI - Google's AI model integration
 
-Data Structures & Algorithms
+RESTful API Design - Resource-oriented architecture
 
-Object Oriented Programming
+API Testing - Postman, API documentation
 
-DBMS
+</details>
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shantanu01B&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu01B&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages"/> <br> <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanu01B&theme=react&hide_border=true" alt="GitHub Streak"/> <br> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shantanu01B&theme=react&hide_border=true" alt="Contribution Graph"/> </div>
+🏅 Achievements & Certifications
+<div align="center"> <table> <tr> <td align="center"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40"/><br> <b>AWS Solutions Architecture</b><br> <sub>Forage Job Simulation</sub> </td> <td align="center"> <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="40"/><br> <b>Oracle Database</b><br> <sub>Programming with SQL</sub> </td> <td align="center"> <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="40"/><br> <b>WOW Verse Hackathon</b><br> <sub>Top 10 Finalist - GDG</sub> </td> </tr> </table> </div>
+🏆 AWS Solutions Architecture - Completed job simulation by Forage View Certificate
 
-Operating Systems
+🏆 Oracle Database Programming with SQL - Certified professional View Certificate
 
-Computer Networks Security
+🏆 WOW Verse Hackathon - Selected among Top 10 teams, qualified for finals (GDG)
 
-Competitive Programming:
+🏆 Internal Hackathon - Participated and selected
 
-250+ problems solved on CodeChef
+📈 Competitive Programming
+https://img.shields.io/badge/CodeChef-1368-5B4638?style=for-the-badge&logo=codechef&logoColor=white
 
-Maximum Rating: 1368
+250+ Problems Solved on CodeChef
 
-Leadership & Technical Involvement
+Max Rating: 1368
 
-Executive Head — Code Craft Coding Club
+Active participant in coding contests
 
-Led a team of 10+ members
+📚 Core Subjects
+Subject	Proficiency
+Data Structures & Algorithms	⚡⚡⚡⚡⚡
+Object Oriented Programming	⚡⚡⚡⚡⚡
+Database Management Systems	⚡⚡⚡⚡⚡
+Operating Systems	⚡⚡⚡⚡
+Computer Networks Security	⚡⚡⚡⚡
+🎯 Current Focus
+🔥 Strengthening DSA for product-based company placements
 
-Spearheaded CraftVerse 2025 (National-Level Hackathon)
+🚀 Building scalable production-ready applications
 
-Represented the club in intercollegiate collaborations
+🤖 Exploring AI-integrated full-stack systems
 
-GitHub Performance Metrics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170"/> </p>
-Contribution Consistency
-<p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/> </p>
-Strategic Growth Roadmap
+⚡ Optimizing backend performance & architecture
 
-Advanced DSA & Interview-Level Problem Solving
+☁️ Deepening cloud computing expertise (AWS)
 
-Scalable Backend Architecture Patterns
-
-System Design & Distributed Systems
-
-Performance Profiling & Optimization
-
-Production-Grade Deployment Pipelines
-
-Professional Philosophy
-Clarity in code.
-Security in systems.
-Scalability in architecture.
-Consistency in growth.
-
-Connect
-
-Email: shantanubarge2005@gmail.com
-
-LinkedIn: https://linkedin.com/in/shantanu-barge
-
-Portfolio: Add when final production version is ready
+📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+text
+JavaScript   18 hrs 30 mins  ████████████░░░░░░░░░   58.2%
+React        6 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   19.8%
+Node.js      3 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░   12.7%
+Python       2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░   6.2%
+Other        1 hr 10 mins     ░░░░░░░░░░░░░░░░░░░░░   3.1%
+<!--END_SECTION:waka-->
+🤝 Let's Connect & Collaborate
+<div align="center"> <p>I'm actively seeking opportunities in <strong>Full Stack Development</strong> and <strong>Software Engineering</strong> roles.</p> <br> <a href="https://shantanu-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> <a href="https://linkedin.com/in/shantanu-barge"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:shantanubarge2005@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://github.com/Shantanu01B"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <br> <br> <table> <tr> <td>📧 Email</td> <td><a href="mailto:shantanubarge2005@gmail.com">shantanubarge2005@gmail.com</a></td> </tr> <tr> <td>📞 Phone</td> <td><a href="tel:+917378780030">+91 7378780030</a></td> </tr> <tr> <td>📍 Location</td> <td>Pune, Maharashtra, India</td> </tr> </table> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=30" width="100%"/> <br> <p> <i>"Build real systems. Solve real problems. Write clean code. Think scalable."</i> </p> <br> <p>⭐️ From <a href="https://github.com/Shantanu01B">Shantanu Barge</a></p> </div> ```
