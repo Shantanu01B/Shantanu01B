@@ -1,71 +1,179 @@
-# 💫 Hello, I'm Shantanu Barge! 
-### *MERN Stack Developer | AI Enthusiast | Creative Coder*
+🚀 Shantanu Barge
+Full Stack Developer | MERN Stack | AI-Driven Solutions | Problem Solver
+👋 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=Building+intelligent+web+solutions;Turning+ideas+into+interactive+experiences;3D+Visualization+Enthusiast" alt="Typing SVG" />
-</div>
+I’m a passionate Full Stack Developer with a strong foundation in Computer Engineering and a deep interest in building scalable, real-world solutions.
 
-## 🚀 What I Do
-- 🔭 Working on **AI-integrated full-stack projects** (OpenAI, Gemini APIs)
-- 🌱 Learning **advanced backend optimization** and **AI/ML integration**
-- 🛠 Building with **React, Node.js, MongoDB, Three.js**
-- ⚡ Fun fact: Created a **3D Solar System with adjustable planet speeds!**
+I specialize in developing MERN stack applications, integrating AI-powered features, and designing clean, production-ready user interfaces.
 
----
+I focus on:
 
-## 🛠 Tech Stack
+Writing clean & maintainable code
 
+Building complete end-to-end systems
 
+Designing scalable backend architectures
 
+Creating impactful real-world tech products
 
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+🧠 What I Do
 
-### 🖥 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+🔹 Build Full Stack MERN Applications
 
-### ⚙ Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+🔹 Design REST APIs with Node.js & Express
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+🔹 Develop Responsive UI using React + Tailwind CSS
 
----
+🔹 Integrate Authentication (JWT, OAuth, Role-Based Access)
 
-## 📈 GitHub Stats
+🔹 Connect & Manage MongoDB Databases
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shantanu01B&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanu01B&theme=radical&hide_border=true" />
-</div>
+🔹 Implement Real-Time Features
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu01B&layout=compact&theme=radical&hide_border=true" />
-</div>
+🔹 Work with AI-based Prompt Engineering Projects
 
----
+🔹 Prepare DSA for placements (Zero → Advanced structured approach)
 
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shantanu-Barge)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shantanu_barge)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantanubarge2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shantanu01B)
+🛠 Tech Stack
+💻 Frontend
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shantanu01B&label=Profile%20views&color=7F3FBF&style=flat" alt="Shantanu01B" /> 
-</div>
+React.js
+
+Vite
+
+Tailwind CSS
+
+JavaScript (ES6+)
+
+HTML5 / CSS3
+
+⚙ Backend
+
+Node.js
+
+Express.js
+
+MongoDB
+
+Mongoose
+
+REST APIs
+
+🔐 Authentication
+
+JWT
+
+Google OAuth
+
+Role-Based Access Control
+
+🧩 Other Skills
+
+Git & GitHub
+
+Postman
+
+MongoDB Atlas
+
+Render & Vercel Deployment
+
+Three.js (3D Projects)
+
+NASM (x86_64 Assembly Basics)
+
+Data Structures & Algorithms
+
+🚀 Featured Projects
+🌱 Farm2Home
+
+A full-stack farmers-to-consumers marketplace platform.
+
+Features:
+
+Role-based login (Farmer & User)
+
+Farmer product management
+
+Dynamic category pages
+
+Real-time product updates
+
+Secure authentication
+
+Clean eco-friendly UI
+
+Tech Used: MERN + Tailwind CSS + MongoDB
+
+⚖ LawPal – Legal Document & FIR Guide
+
+AI-powered system that helps users generate structured legal drafts.
+
+Features:
+
+Prompt-based AI generation
+
+Complaint/FIR draft automation
+
+Structured legal formatting
+
+Scalable backend
+
+🌌 3D Solar System Simulation
+
+Interactive solar system built using Three.js.
+
+Features:
+
+Planet speed controls
+
+Pause/Resume
+
+Camera controls
+
+Background star system
+
+Smooth animations
+
+🤝 SHG-Connect
+
+Digital platform for Self Help Groups (SHGs).
+
+Features:
+
+Loan management
+
+OTP-secured repayment flow
+
+Member dashboard
+
+Secure transaction handling
+
+📈 Current Focus
+
+🔥 Strengthening DSA for placements
+
+🚀 Building scalable production-ready applications
+
+🧠 Exploring AI-integrated full-stack systems
+
+⚡ Optimizing backend performance & architecture
+
+🎯 Career Objective
+
+To work as a Software Engineer where I can build scalable systems, solve real-world problems, and continuously improve my technical expertise.
+
+📊 GitHub Stats
+
+(You can add GitHub stats badges here if you want — tell me and I’ll generate them professionally.)
+
+📬 Connect With Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: (add your link)
+
+🧑‍💻 Portfolio: (add if available)
+
+💡 Developer Philosophy
+
+“Build real systems. Solve real problems. Write clean code. Think scalable.”
