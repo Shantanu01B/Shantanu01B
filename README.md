@@ -1,29 +1,33 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B9DFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shantanu+Barge;Full+Stack+Developer;MERN+Stack+Specialist;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B9DFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shantanu+Barge;Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver" alt="Typing SVG" />
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](your-portfolio-link)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+  <br>
+  
+  <p>
+    <a href="your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+    <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
 </div>
 
 ---
 
-## 🚀 **Crafting Digital Experiences with Code**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-I'm a **Full Stack Developer** with a vision to build scalable, intelligent applications that solve real-world problems. With a strong foundation in **Computer Engineering** and a passion for **AI-driven solutions**, I transform complex requirements into elegant, production-ready systems.
+I'm a passionate **Full Stack Developer** with a strong foundation in Computer Engineering and a deep interest in building scalable, real-world solutions. I specialize in developing MERN stack applications, integrating AI-powered features, and designing clean, production-ready user interfaces.
 
 ```javascript
 const shantanu = {
   role: "Full Stack Developer",
-  core: ["MERN Stack", "System Design", "DSA"],
-  philosophy: "Build scalable systems that make a difference",
-  currentFocus: "AI-integrated full-stack applications"
+  education: "Computer Engineering",
+  specialties: ["MERN Stack", "System Design", "AI Integration"],
+  currentFocus: "Building scalable production-ready applications",
+  philosophy: "Write clean code. Build real systems. Solve real problems."
 };
-💫 What I Bring to the Table
-<div align="center"> <table> <tr> <td align="center" width="200"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react"/> <br /> <b>Frontend Architecture</b> <br /> <sub>React • Vite • Tailwind</sub> </td> <td align="center" width="200"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/> <br /> <b>Scalable Backend</b> <br /> <sub>Node.js • Express • REST</sub> </td> <td align="center" width="200"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/> <br /> <b>Database Design</b> <br /> <sub>MongoDB • Mongoose</sub> </td> </tr> <tr> <td align="center" width="200"> <img src="https://img.icons8.com/color/48/000000/security-checked.png" alt="auth"/> <br /> <b>Authentication</b> <br /> <sub>JWT • OAuth • RBAC</sub> </td> <td align="center" width="200"> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="ai"/> <br /> <b>AI Integration</b> <br /> <sub>Prompt Engineering</sub> </td> <td align="center" width="200"> <img src="https://img.icons8.com/color/48/000000/real-time.png" alt="realtime"/> <br /> <b>Real-time Features</b> <br /> <sub>WebSockets</sub> </td> </tr> </table> </div>
-🛠️ Technology Arsenal
-Frontend Ecosystem
+
+🛠️ Tech Stack
+Frontend Development
 https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
 https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
@@ -32,62 +36,30 @@ https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoCol
 https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white
 
-Backend & Database
+Backend Development
 https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white
 https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white
+https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=swagger&logoColor=white
 
 Authentication & Security
 https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%2520web%2520tokens&logoColor=white
 https://img.shields.io/badge/OAuth-3C873A?style=for-the-badge&logo=auth0&logoColor=white
 
-DevOps & Tools
+Tools & Technologies
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
 https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white
+https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=react"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" alt="GitHub Streak" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> </div>
-🎯 Current Mission
-🔥 Mastering Data Structures & Algorithms for technical excellence
-
-🚀 Architecting production-ready MERN applications with best practices
-
-🤖 Integrating AI capabilities into full-stack systems
-
-⚡ Optimizing backend performance and database queries
-
-🌐 Building scalable system designs
-
-🏆 Featured Projects
-<div align="center"> <a href="https://github.com/yourusername/project1"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=react" /> </a> <a href="https://github.com/yourusername/project2"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react" /> </a> </div>
-📈 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░   58.2%
-React        4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   19.8%
-Node.js      2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░   12.7%
-MongoDB      1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░    6.2%
-Other        45 mins         ░░░░░░░░░░░░░░░░░░░░░    3.1%
-<!--END_SECTION:waka-->
-💡 Developer Philosophy
-"Code is not just about making things work—it's about building scalable solutions that stand the test of time. Every line should serve a purpose, every architecture should anticipate growth, and every system should solve real problems."
-
-📫 Let's Connect & Collaborate
-<div align="center">
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
-
-<br/>
-📧 Email: your.email@example.com
-📍 Location: Your City, Country
-
-<br/> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=3b9dff&style=flat" alt="Profile Views" /> <br/>
-⭐️ From Shantanu Barge
-
-</div> ```
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages"/> <br> <br> <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&hide_border=true" alt="GitHub Streak"/> </div>
+🎯 What I Do
+<table> <tr> <td width="50%"> <h3 align="center">🔹 Full Stack Development</h3> <div align="center"> Build end-to-end MERN applications with scalable architecture and clean code practices. </div> </td> <td width="50%"> <h3 align="center">🔹 API Design</h3> <div align="center"> Design RESTful APIs with Node.js & Express, implementing best practices and security measures. </div> </td> </tr> <tr> <td width="50%"> <h3 align="center">🔹 Database Management</h3> <div align="center"> Design and optimize MongoDB schemas, implement complex queries and aggregations. </div> </td> <td width="50%"> <h3 align="center">🔹 Authentication Systems</h3> <div align="center"> Implement JWT, OAuth, and role-based access control for secure applications. </div> </td> </tr> <tr> <td width="50%"> <h3 align="center">🔹 AI Integration</h3> <div align="center"> Work with AI-based prompt engineering and integrate AI features into full-stack applications. </div> </td> <td width="50%"> <h3 align="center">🔹 DSA & Problem Solving</h3> <div align="center"> Structured approach to DSA for placements, focusing on efficient algorithms. </div> </td> </tr> </table>
+📌 Pinned Projects
+<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">Project Name 1</h3> <div align="center"> <p>Brief description of your project goes here. Explain what it does and the technologies used.</p> <p> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"> </p> <p> <a href="https://github.com/yourusername/project1">🔗 Repository</a> • <a href="https://project1-demo.com">🚀 Live Demo</a> </p> </div> </td> <td width="50%"> <h3 align="center">Project Name 2</h3> <div align="center"> <p>Brief description of your project goes here. Explain what it does and the technologies used.</p> <p> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> </p> <p> <a href="https://github.com/yourusername/project2">🔗 Repository</a> • <a href="https://project2-demo.com">🚀 Live Demo</a> </p> </div> </td> </tr> </table> </div>
+📫 Let's Connect
+<div align="center"> <p>I'm always interested in collaborating on innovative projects and discussing tech opportunities.</p> <br> <a href="your-portfolio-link"> <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> <a href="your-linkedin-url"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://github.com/yourusername"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <br> <br> <p> <strong>📧 Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a><br> <strong>💼 Open for:</strong> Full Stack Development Opportunities </p> <br> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=3b9dff&style=flat" alt="Profile Views"> <br> <br> <hr> <p> <i>"Build real systems. Solve real problems. Write clean code. Think scalable."</i> </p> <br> <p>⭐️ From <a href="https://github.com/yourusername">Shantanu Barge</a></p> </div> ```
