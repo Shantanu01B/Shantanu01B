@@ -177,210 +177,41 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shantanu01B&custom_title=Shantanu's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=6A5ACD&line=6A5ACD&point=6A5ACD&area=true&hide_border=true" width="95%" alt="Activity Graph">
   </a>
 </div>
-
-<br/>
-
-<!-- FEATURED PROJECTS - PREMIUM DESIGN -->
+<!-- FEATURED PROJECTS - MINIMAL CLEAN VERSION -->
 <div align="center">
-  <br/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
-  <h2>Featured Projects</h2>
-  <p><i>Real-world solutions built with modern technologies</i></p>
-  <br/>
-</div>
-
-<!-- PROJECT 1: LAWPAL - CARD STYLE -->
-<div align="center">
-  <table border="0" cellpadding="20" style="border-radius: 20px; background: linear-gradient(145deg, #0d1117 0%, #1a1f2b 100%); box-shadow: 0 20px 30px -10px rgba(106, 90, 205, 0.3); width: 90%; border: 1px solid #2d2d3a;">
-    <tr>
-      <td width="100%" style="border: none;">
-        <div align="left" style="padding: 20px;">
-          
-          <!-- Project Header with Icon -->
-          <h3>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scale.png" alt="Scale" width="30" height="30" />
-            LawPal — AI-Powered Legal Assistant
-          </h3>
-          
-          <!-- Project Description -->
-          <p style="color: #a0a0b0; font-size: 16px; margin-bottom: 25px;">
-            An intelligent legal platform that democratizes access to legal information and document drafting using cutting-edge AI technology.
-          </p>
-          
-          <!-- Features with Icons -->
-          <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 25px;">
-            <div style="flex: 1; min-width: 250px;">
-              <table border="0" cellpadding="5">
-                <tr>
-                  <td valign="top" width="30">✨</td>
-                  <td><b>AI Integration:</b> Gemini AI & OpenAI for 95% accurate legal responses</td>
-                </tr>
-                <tr>
-                  <td valign="top">📄</td>
-                  <td><b>Document System:</b> Automated drafting for contracts & agreements</td>
-                </tr>
-                <tr>
-                  <td valign="top">🔐</td>
-                  <td><b>Security:</b> JWT authentication & encrypted document storage</td>
-                </tr>
-                <tr>
-                  <td valign="top">🎨</td>
-                  <td><b>UI/UX:</b> Responsive interface with Tailwind CSS</td>
-                </tr>
-              </table>
-            </div>
-          </div>
-          
-          <!-- Tech Stack Tags -->
-          <div style="margin-top: 20px;">
-            <b>Tech Stack:</b>
-            <div style="display: inline-block; margin-left: 10px;">
-              <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-              <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-              <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
-              <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-              <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-              <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-            </div>
-          </div>
-          
-        </div>
-      </td>
-    </tr>
-  </table>
+  <h2>🚀 Featured Projects</h2>
 </div>
 
 <br/>
-<br/>
 
-<!-- PROJECT 2: RATIONX - CARD STYLE -->
-<div align="center">
-  <table border="0" cellpadding="20" style="border-radius: 20px; background: linear-gradient(145deg, #0d1117 0%, #1a1f2b 100%); box-shadow: 0 20px 30px -10px rgba(0, 199, 183, 0.3); width: 90%; border: 1px solid #2d2d3a;">
-    <tr>
-      <td width="100%" style="border: none;">
-        <div align="left" style="padding: 20px;">
-          
-          <!-- Project Header with Icon -->
-          <h3>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="30" height="30" />
-            RationX — Smart Ration Distribution System
-          </h3>
-          
-          <!-- Project Description -->
-          <p style="color: #a0a0b0; font-size: 16px; margin-bottom: 25px;">
-            A transparent and efficient Public Distribution System (PDS) solution leveraging QR technology for identity verification.
-          </p>
-          
-          <!-- Features with Icons -->
-          <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 25px;">
-            <div style="flex: 1; min-width: 250px;">
-              <table border="0" cellpadding="5">
-                <tr>
-                  <td valign="top" width="30">📱</td>
-                  <td><b>QR Verification:</b> Real-time identity validation via smartphone scanning</td>
-                </tr>
-                <tr>
-                  <td valign="top">👥</td>
-                  <td><b>Role-Based Access:</b> Custom dashboards for Admin, Dealers & Users</td>
-                </tr>
-                <tr>
-                  <td valign="top">🔑</td>
-                  <td><b>Secure Auth:</b> OTP authentication with delivery tracking</td>
-                </tr>
-                <tr>
-                  <td valign="top">📊</td>
-                  <td><b>Inventory:</b> Real-time stock management & distribution monitoring</td>
-                </tr>
-              </table>
-            </div>
-          </div>
-          
-          <!-- Tech Stack Tags -->
-          <div style="margin-top: 20px;">
-            <b>Tech Stack:</b>
-            <div style="display: inline-block; margin-left: 10px;">
-              <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-              <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
-              <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-              <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-              <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
-              <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-            </div>
-          </div>
-          
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+### ⚖️ LawPal - AI-Powered Legal Assistant
+- Integrated Gemini AI & OpenAI for context-aware legal responses with 95% accuracy
+- Built intelligent document drafting system for legal contracts and agreements
+- Implemented secure JWT authentication and encrypted document storage
+- **Tech Stack:** React, Node.js, Express, MongoDB, Gemini AI, OpenAI, Tailwind CSS
 
 <br/>
-<br/>
 
-<!-- PROJECT 3: GIGFLOW - CARD STYLE -->
-<div align="center">
-  <table border="0" cellpadding="20" style="border-radius: 20px; background: linear-gradient(145deg, #0d1117 0%, #1a1f2b 100%); box-shadow: 0 20px 30px -10px rgba(255, 165, 0, 0.3); width: 90%; border: 1px solid #2d2d3a;">
-    <tr>
-      <td width="100%" style="border: none;">
-        <div align="left" style="padding: 20px;">
-          
-          <!-- Project Header with Icon -->
-          <h3>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Technologist" width="30" height="30" />
-            GigFlow — Freelance Marketplace Platform
-          </h3>
-          
-          <!-- Project Description -->
-          <p style="color: #a0a0b0; font-size: 16px; margin-bottom: 25px;">
-            A dynamic platform connecting clients with freelancers through real-time bidding and seamless collaboration.
-          </p>
-          
-          <!-- Features with Icons -->
-          <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 25px;">
-            <div style="flex: 1; min-width: 250px;">
-              <table border="0" cellpadding="5">
-                <tr>
-                  <td valign="top" width="30">⚡</td>
-                  <td><b>Real-time Updates:</b> Live bid notifications via Socket.io</td>
-                </tr>
-                <tr>
-                  <td valign="top">👤</td>
-                  <td><b>Dual Portals:</b> Role-specific dashboards for clients & freelancers</td>
-                </tr>
-                <tr>
-                  <td valign="top">💰</td>
-                  <td><b>Bidding System:</b> Competitive proposal submission & tracking</td>
-                </tr>
-                <tr>
-                  <td valign="top">🔔</td>
-                  <td><b>Notifications:</b> Instant alerts for bid updates & project status</td>
-                </tr>
-              </table>
-            </div>
-          </div>
-          
-          <!-- Tech Stack Tags -->
-          <div style="margin-top: 20px;">
-            <b>Tech Stack:</b>
-            <div style="display: inline-block; margin-left: 10px;">
-              <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-              <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
-              <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-              <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-              <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-              <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
-              <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-            </div>
-          </div>
-          
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+### 📦 RationX - Smart Ration Distribution System
+- QR verification system with real-time identity validation using smartphone scanning
+- Role-based dashboards for Admin, Dealers, and End-Users with customized views
+- Secure OTP authentication and real-time delivery tracking mechanism
+- **Tech Stack:** MERN Stack, JWT Authentication, QR Scanner, Tailwind CSS
 
 <br/>
+
+### 💼 GigFlow - Freelance Marketplace Platform
+- Real-time bid updates and notifications using Socket.io for live competition
+- JWT-based authentication with role-specific portals for clients and freelancers
+- Competitive bidding system allowing freelancers to submit and track proposals
+- **Tech Stack:** MERN Stack, Socket.io, JWT Authentication, Tailwind CSS
 <br/>
+
+
+
+
+
+
 
 <!-- DIVIDER -->
 <div align="center">
