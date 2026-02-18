@@ -8,7 +8,7 @@
 <!-- MULTI-DIMENSIONAL INTRO WITH GLOW EFFECT -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave">
-  Hi there, I'm Shantanu
+  Shantanu Barge
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave">
 </h1>
 
@@ -36,6 +36,14 @@
 </div>
 
 <br/>
+
+<!-- SPOTIFY / RECENT ACTIVITY (OPTIONAL - but cool) 
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify" width="300" />
+  </a>
+</div>
+-->
 
 <!-- DIVIDER WITH ICONS -->
 <div align="center">
@@ -70,8 +78,6 @@
     </tr>
   </table>
 </div>
-
-<br/>
 
 <!-- TECH STACK SECTION - ANIMATED ICONS -->
 <div align="center">
@@ -144,7 +150,7 @@
 
 <br/>
 
-<!-- GITHUB STATS WITH FIXED CARDS -->
+<!-- GITHUB STATS WITH 3D EFFECT -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
@@ -171,135 +177,41 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shantanu01B&custom_title=Shantanu's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=6A5ACD&line=6A5ACD&point=6A5ACD&area=true&hide_border=true" width="95%" alt="Activity Graph">
   </a>
 </div>
-
-<br/>
-
-<!-- FEATURED PROJECTS - ENHANCED CARD DESIGN -->
+<!-- FEATURED PROJECTS - MINIMAL CLEAN VERSION -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
-    🚀 Featured Projects
-  </h2>
+  <h2>🚀 Featured Projects</h2>
 </div>
 
 <br/>
 
-<!-- PROJECT 1: LAWPAL -->
-<div align="center">
-  <table border="0" cellpadding="15" style="border-radius: 20px; background: linear-gradient(145deg, #0d1117 0%, #161b22 100%); box-shadow: 0 20px 30px -10px rgba(106, 90, 205, 0.3); width: 95%; border: 1px solid #30363d;">
-    <tr>
-      <td width="100%" style="border: none;">
-        <div align="left" style="padding: 10px 20px;">
-          
-          <!-- Project Header with Icon -->
-          <h3>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scale.png" alt="Scale" width="28" height="28" />
-            ⚖️ LawPal - AI-Powered Legal Assistant
-          </h3>
-          
-          <!-- Features -->
-          <ul style="list-style-type: none; padding-left: 0;">
-            <li style="margin-bottom: 8px;">✨ <b>AI Integration:</b> Gemini AI & OpenAI for context-aware legal responses with 95% accuracy</li>
-            <li style="margin-bottom: 8px;">📄 <b>Document System:</b> Built intelligent document drafting system for legal contracts and agreements</li>
-            <li style="margin-bottom: 8px;">🔐 <b>Security:</b> Implemented secure JWT authentication and encrypted document storage</li>
-          </ul>
-          
-          <!-- Tech Stack -->
-          <p>
-            <b>Tech Stack:</b> 
-            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-            <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-          </p>
-          
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+### ⚖️ LawPal - AI-Powered Legal Assistant
+- Integrated Gemini AI & OpenAI for context-aware legal responses with 95% accuracy
+- Built intelligent document drafting system for legal contracts and agreements
+- Implemented secure JWT authentication and encrypted document storage
+- **Tech Stack:** React, Node.js, Express, MongoDB, Gemini AI, OpenAI, Tailwind CSS
 
 <br/>
 
-<!-- PROJECT 2: RATIONX -->
-<div align="center">
-  <table border="0" cellpadding="15" style="border-radius: 20px; background: linear-gradient(145deg, #0d1117 0%, #161b22 100%); box-shadow: 0 20px 30px -10px rgba(0, 199, 183, 0.3); width: 95%; border: 1px solid #30363d;">
-    <tr>
-      <td width="100%" style="border: none;">
-        <div align="left" style="padding: 10px 20px;">
-          
-          <!-- Project Header with Icon -->
-          <h3>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="28" height="28" />
-            📦 RationX - Smart Ration Distribution System
-          </h3>
-          
-          <!-- Features -->
-          <ul style="list-style-type: none; padding-left: 0;">
-            <li style="margin-bottom: 8px;">📱 <b>QR Verification:</b> Real-time identity validation using smartphone scanning</li>
-            <li style="margin-bottom: 8px;">👥 <b>Role-Based Access:</b> Custom dashboards for Admin, Dealers, and End-Users with customized views</li>
-            <li style="margin-bottom: 8px;">🔑 <b>Secure Auth:</b> OTP authentication and real-time delivery tracking mechanism</li>
-          </ul>
-          
-          <!-- Tech Stack -->
-          <p>
-            <b>Tech Stack:</b> 
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
-            <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-          </p>
-          
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+### 📦 RationX - Smart Ration Distribution System
+- QR verification system with real-time identity validation using smartphone scanning
+- Role-based dashboards for Admin, Dealers, and End-Users with customized views
+- Secure OTP authentication and real-time delivery tracking mechanism
+- **Tech Stack:** MERN Stack, JWT Authentication, QR Scanner, Tailwind CSS
 
 <br/>
 
-<!-- PROJECT 3: GIGFLOW -->
-<div align="center">
-  <table border="0" cellpadding="15" style="border-radius: 20px; background: linear-gradient(145deg, #0d1117 0%, #161b22 100%); box-shadow: 0 20px 30px -10px rgba(255, 165, 0, 0.3); width: 95%; border: 1px solid #30363d;">
-    <tr>
-      <td width="100%" style="border: none;">
-        <div align="left" style="padding: 10px 20px;">
-          
-          <!-- Project Header with Icon -->
-          <h3>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Technologist" width="28" height="28" />
-            💼 GigFlow - Freelance Marketplace Platform
-          </h3>
-          
-          <!-- Features -->
-          <ul style="list-style-type: none; padding-left: 0;">
-            <li style="margin-bottom: 8px;">⚡ <b>Real-time Updates:</b> Live bid updates and notifications using Socket.io for live competition</li>
-            <li style="margin-bottom: 8px;">👤 <b>Dual Portals:</b> JWT-based authentication with role-specific portals for clients and freelancers</li>
-            <li style="margin-bottom: 8px;">💰 <b>Bidding System:</b> Competitive bidding system allowing freelancers to submit and track proposals</li>
-          </ul>
-          
-          <!-- Tech Stack -->
-          <p>
-            <b>Tech Stack:</b> 
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-            <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-          </p>
-          
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
+### 💼 GigFlow - Freelance Marketplace Platform
+- Real-time bid updates and notifications using Socket.io for live competition
+- JWT-based authentication with role-specific portals for clients and freelancers
+- Competitive bidding system allowing freelancers to submit and track proposals
+- **Tech Stack:** MERN Stack, Socket.io, JWT Authentication, Tailwind CSS
 <br/>
+
+
+
+
+
+
 
 <!-- DIVIDER -->
 <div align="center">
