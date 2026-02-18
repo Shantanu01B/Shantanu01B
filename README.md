@@ -180,85 +180,34 @@
 
 <br/>
 
-<!-- FEATURED PROJECTS WITH CARDS -->
+<!-- FEATURED PROJECTS - MINIMAL CLEAN VERSION -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
-    Featured Projects
-  </h2>
+  <h2>🚀 Featured Projects</h2>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">⚖️ LawPal</h3>
-        <div align="center">
-          <p>
-            <a href="https://github.com/Shantanu01B/LawPal" target="_blank">
-              <img src="https://img.shields.io/badge/Code-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-            </a>
-            <a href="https://lawpal.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-            </a>
-          </p>
-          <p align="left">
-            <strong>🤖 AI-Powered Legal Assistant</strong><br/>
-            • Integrated Gemini AI & OpenAI for context-aware legal responses<br/>
-            • Built document drafting system with 95% accuracy<br/>
-            • Implemented secure authentication and document storage<br/>
-            <br/>
-            <strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Gemini AI, OpenAI, Tailwind CSS
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🛒 RationX</h3>
-        <div align="center">
-          <p>
-            <a href="https://github.com/Shantanu01B/RationX" target="_blank">
-              <img src="https://img.shields.io/badge/Code-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-            </a>
-            <a href="https://rationx.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-            </a>
-          </p>
-          <p align="left">
-            <strong>📦 Smart Ration Distribution System</strong><br/>
-            • QR verification system with real-time validation<br/>
-            • Role-based dashboards for Admin, Dealer, and Users<br/>
-            • OTP authentication and delivery tracking<br/>
-            <br/>
-            <strong>Tech Stack:</strong> MERN, JWT Auth, QR Scanner, Tailwind CSS
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" colspan="2">
-        <h3 align="center">💼 GigFlow</h3>
-        <div align="center">
-          <p>
-            <a href="https://github.com/Shantanu01B/GigFlow" target="_blank">
-              <img src="https://img.shields.io/badge/Code-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-            </a>
-            <a href="https://gigflow.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-            </a>
-          </p>
-          <p align="left">
-            <strong>🚀 Freelance Marketplace Platform</strong><br/>
-            • Real-time bid updates using Socket.io<br/>
-            • JWT-based authentication with role-specific portals<br/>
-            • Competitive bidding system with notifications<br/>
-            <br/>
-            <strong>Tech Stack:</strong> MERN, Socket.io, JWT, Tailwind CSS
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
+
+### ⚖️ LawPal - AI-Powered Legal Assistant
+- Integrated Gemini AI & OpenAI for context-aware legal responses with 95% accuracy
+- Built intelligent document drafting system for legal contracts and agreements
+- Implemented secure JWT authentication and encrypted document storage
+- **Tech Stack:** React, Node.js, Express, MongoDB, Gemini AI, OpenAI, Tailwind CSS
+
+<br/>
+
+### 📦 RationX - Smart Ration Distribution System
+- QR verification system with real-time identity validation using smartphone scanning
+- Role-based dashboards for Admin, Dealers, and End-Users with customized views
+- Secure OTP authentication and real-time delivery tracking mechanism
+- **Tech Stack:** MERN Stack, JWT Authentication, QR Scanner, Tailwind CSS
+
+<br/>
+
+### 💼 GigFlow - Freelance Marketplace Platform
+- Real-time bid updates and notifications using Socket.io for live competition
+- JWT-based authentication with role-specific portals for clients and freelancers
+- Competitive bidding system allowing freelancers to submit and track proposals
+- **Tech Stack:** MERN Stack, Socket.io, JWT Authentication, Tailwind CSS
 
 <br/>
 
